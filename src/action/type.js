@@ -1,0 +1,5 @@
+export const CREATE_VEHICLE = "CREATE_VEH";
+export const RETRIEVE_VEHICLE = "RETRIEVE_VEH";
+export const RETRIEVE_VEHICLE_BYID = "RETRIEVE_VEH_ID";
+export const UPDATE_VEHICLE = "UPDATE_VEH";
+export const DELETE_VEHICLE = "DELETE_VEH";
